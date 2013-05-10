@@ -5,7 +5,7 @@ fitgrd
 
 ## What it is
 .Fitgrd is not a framework. It's a solid foundation to build up your own responsive website. 
-It is designed for rapid prototyping, but also runs well in a production environments. 
+It is designed for rapid prototyping, but also runs well in production environments. 
 This grid system is perfect for advanced web designers who don't want to have their pages look like "bootstraped". 
 Everything but the grid is up to you and gives you the ability to save a lot of dispensable code. 
 Give it a try and you'll love it.
