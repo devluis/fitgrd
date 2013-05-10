@@ -3,6 +3,8 @@ fitgrd
 
 .fitgrd is the lightweight &amp; sexy looking responsive grid for your next awesome website.
 
+find the working demo here: www.fitgrd.com
+
 ## What it is
 .Fitgrd is not a framework. It's a solid foundation to build up your own responsive website. 
 It is designed for rapid prototyping, but also runs well in production environments. 
