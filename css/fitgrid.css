@@ -311,11 +311,20 @@
 
 }
 
+
+/* phone landscape */
 @media screen and (max-width: 30em) and (orientation:landscape){
 
-	.fg1,.fg2,.fg3{
-		width: 46%;
-		margin-bottom: 1em;
-	}	
+	
+}
+
+/* ipad portrait */
+@media only screen and (max-device-width: 64em) and (orientation:portrait) {
+	
+}
+
+
+/* ipad landscape */
+@media only screen and (max-device-width: 64em) and (orientation:landscape) {
 	
 }
